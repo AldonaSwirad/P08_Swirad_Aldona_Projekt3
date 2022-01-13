@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1642086669 source:d:\c++ studia\p08 aldona Œwirad projekt2\main.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<cstdlib>
+	<time.h>
+
